@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm **DEEBAK P M**, a passionate Computer Science 
 ## 💻 Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=plastic&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 
 ### Other Skills
 - 🐧 **Linux** - System administration and command-line proficiency
