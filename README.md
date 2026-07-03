@@ -1,17 +1,18 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **DEEBAK P M**, a passionate Computer Science student at **GCE Dharmapuri** exploring cloud technologies and DevOps.
+Welcome to my GitHub profile! I'm **DEEBAK P M**, a passionate Computer Science student at **GCE Dharmapuri** exploring cloud technologies.
 
 ## 🚀 About Me
 - 🎓 **Computer Science Student** at GCE Dharmapuri
-- ☁️ Passionate about **Cloud Computing** and **DevOps**
+- ☁️ Passionate about **Cloud Computing**
 - 🧠 Continuously learning and building practical projects
 - 🎯 Working towards **AWS certification**
 
 ## 💻 Technical Skills
 
 ### Programming Languages
-![Python](https://r.search.yahoo.com/_ylt=AwrKB8P1sEdqMQIAyQu7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Nj/RV=2/RE=1784292853/RO=10/RU=https%3a%2f%2fwww.pinterest.com%2fpin%2fpython-programming--652951646016569467%2f/RK=2/RS=.M4iMSzM4ZjIX6.0fibOuPEaKTU-)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=plastic&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=c&logoColor=white)
 
