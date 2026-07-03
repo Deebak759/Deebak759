@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm **DEEBAK P M**, a passionate Computer Science 
 ## 💻 Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- **Python** - Data processing and automation
+- **Shell** - Bash scripting and system administration
+- **C** - System-level programming
 
 ### Other Skills
 - 🐧 **Linux** - System administration and command-line proficiency
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm **DEEBAK P M**, a passionate Computer Science 
 ## 💼 Career Interest
 I'm actively looking for opportunities in:
 - **Cloud-based development roles**
-- **DevOps internships**
+- **Cloud-based internships**
 - **AWS-related positions**
 - **Linux system administration**
 
